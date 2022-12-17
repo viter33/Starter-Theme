@@ -1,0 +1,8 @@
+.testimonial-blockquote{
+    font-style: italic;
+}
+.testimonial-block{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
